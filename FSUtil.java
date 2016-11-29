@@ -144,7 +144,7 @@ public class FSUtil {
         }
     }
 
-    private static void prepareParentDirs(File file) {
+    public static void prepareParentDirs(File file) {
         if (!file.getParentFile().exists()) {
             file.getParentFile().mkdirs();
         }
