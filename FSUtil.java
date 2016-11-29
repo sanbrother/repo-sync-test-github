@@ -14,7 +14,7 @@ import java.util.zip.ZipFile;
 /**
  * @brief File System Utility class
  * 
- * @author David 2014 0223 @ github
+ * @author David 2014 0223 @ github ^_^
  *
  */
 public class FSUtil {
